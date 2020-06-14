@@ -1,0 +1,2364 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html id="masterChannel-ait" lang="ja">
+ <head>
+  <meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+  <meta content="text/css" http-equiv="content-style-type"/>
+  <meta content="text/javascript" http-equiv="content-script-type"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <script>
+   var swspv = '1';var cms_summary_flag = '(none)';
+  </script>
+  <script src="/js/spv/movePC2SP.js?date=191025112411">
+  </script>
+  <!-- FIX DMOZ -->
+  <!-- masterType = not top -->
+  <!-- masterType ne article -->
+  <meta content="NEh,Cloud,lbg[N" name="keywords"/>
+  <meta content="root/ITmedia/ait/subtop" name="adpath"/>
+  <meta content="http://www.atmarkit.co.jp/ait/subtop/cloud.html" name="pcurl"/>
+  <meta content="http://www.atmarkit.co.jp/ait/subtop/spv/cloud.html" name="spurl"/>
+  <title>
+   NEh - IT
+  </title>
+  <meta content="1724827814406155" property="fb:app_id"/>
+  <!--EDIT START-->
+  <!--EDIT END-->
+  <!-- ITIKW -->
+  <link href="//www.itmedia.co.jp/css/ait/base.css?201910111842" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//www.itmedia.co.jp/css/ait/ad.css?201912101216" media="all" rel="stylesheet" type="text/css"/>
+  <link href="//www.itmedia.co.jp/css/ait/subtop.css?201810011202" media="all" rel="stylesheet" type="text/css"/>
+  <script charset="UTF-8" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js">
+  </script>
+  <script>
+   jQuery.noConflict();
+  </script>
+  <script src="//fc.itmedia.co.jp/fpcookie?site_id=itm_">
+  </script>
+  <script src="/js/scAccount.js">
+  </script>
+  <script src="/js/dlvRequest.js">
+  </script>
+  <script src="/js/scRequest.js">
+  </script>
+  <!-- Get user segments, normal use, with sync load of cx.js -->
+  <script src="//scdn.cxense.com/cx.js">
+  </script>
+  <script>
+   var cx_segments = cX.getUserSegmentIds({persistedQueryId:'32780b6d6fb51c7b1fefeb67a7e3305b165e5c6a'});
+  </script>
+  <script src="/js/ait/ex_adRequest.js?date=201711221649">
+  </script>
+  <script src="/js/base.js?date=201906041205">
+  </script>
+  <script src="/js/ad.js?date=201302061956">
+  </script>
+  <script src="/js/subtop.js?date=201101211608">
+  </script>
+  <script src="/js/ait/base.js?date=201905201527">
+  </script>
+  <script src="/js/ait/ad.js?date=201204121927">
+  </script>
+  <script src="/js/ait/subtop.js?date=201204121927">
+  </script>
+  <script>
+   (function(){
+var d = document,h = location.hash,u = '//cx.api.itmedia.co.jp/v1.js';
+if(h.match(/^#[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}$/)) u += '?ip=' + h.replace('#','');
+d.write('<script src="' + u + '"><\/script>');
+})();
+  </script>
+  <script src="//tr.api.itmedia.jp/v1.js">
+  </script>
+  <script src="/js/lib/cx_v2.js?date=202005211040">
+  </script>
+  <script>
+   var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+var cx_k_param = cx_api_itm('ad');
+cX.callQueue.push(['setSiteId','1127153793923352357']);
+window.addEventListener('DOMContentLoaded',function(){
+	cx_push_iitt();
+	cX.callQueue.push(['setSiteId','1127153793923352357']);
+	cx_push_cxapi('7afa26d5cf882cbdf1133ef0a74bc60ab5581d17');
+	cx_click_map('1141827478709654509');
+	cX.callQueue.push(['sync','frk']);
+	cX.callQueue.push(['sync','aam']);
+	cx_add_meta();
+	cx_push_readable('7afa26d5cf882cbdf1133ef0a74bc60ab5581d17');
+},false);
+  </script>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3CLTQN');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- Cxense script end -->
+ </head>
+ <body id="masterType-subtop">
+  <script>
+   // JavaScriptpFacebook SDK
+
+window.fbAsyncInit = function(){
+	FB.init({
+		appId:'1724827814406155',
+		autoLogAppEvents : true,
+		xfbml : true,
+		version : 'v3.3'
+	});
+	FB.AppEvents.logPageView();
+};
+
+(function(d,s,id){
+var js, fjs = d.getElementsByTagName(s)[0];
+if(d.getElementById(id)){return;}
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/ja_JP/sdk.js";
+fjs.parentNode.insertBefore(js,fjs);
+}(document,'script','facebook-jssdk'));
+  </script>
+  <script type="text/javascript">
+   var dcl_start = new Date();
+attachBodyClass();
+function masterChannel(){return 'ait';}
+function masterType(){return 'subtop';}
+function prFlag(){return '';}
+function spFlag(){return '';}
+(function(){
+if(getUrl()['domain'].match(/(preview|localhost)/)) document.write('<div id="PATHDEBUG">masterChannel = <strong>' + masterChannel() + '</strong> / masterType = <strong>' + masterType() + '</strong> / smartPhone = <strong>' + spFlag() + '</strong></div>');
+return true;
+})();
+  </script>
+  <!--ITWS-->
+  <div id="ITWS">
+   <script>
+    adRequest({'position':'ITWS'});
+   </script>
+  </div>
+  <!--/ITWS-->
+  <!--ITWL-->
+  <script>
+   adRequest({'position':'ITWL'});
+  </script>
+  <!--/ITWL-->
+  <!--ITASB-->
+  <!--/ITASB-->
+  <div id="masterBody">
+   <div id="masterBodyOut">
+    <div id="masterBodyIn">
+     <link href="//www.itmedia.co.jp/css/gnavi.css?date=202001281043" rel="stylesheet"/>
+     <div data-theme="light" id="g_nav">
+      <div id="g_nav_o">
+       <!-- -->
+       <div id="g_nav_i">
+        <div class="g_nav_box">
+         <div class="g_btn" data-menu="0" id="g_btn_menu">
+          <div class="g_float g_float_left">
+          </div>
+          <div class="g_inbtn">
+           <div class="g_lines">
+            <div class="g_line">
+            </div>
+            <div class="g_line">
+            </div>
+            <div class="g_line">
+            </div>
+            <div class="g_line">
+            </div>
+           </div>
+           <div class="g_txt">
+            fBA
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="g_nav_box">
+         <div id="g_logo">
+          <a href="//www.atmarkit.co.jp/">
+           <img alt="IT20üN" height="59" src="//image.itmedia.co.jp/images/logo/pcvheader_ait_20th.png" width="102"/>
+          </a>
+         </div>
+        </div>
+        <div class="g_nav_box _flex">
+         <div class="g_free_box">
+          <div class="g_local g_local_btn gray_1">
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/series/search/">
+             <div>
+              AÚê
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/special/">
+             <div>
+              IT Special
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/seminar/">
+             <div>
+              Z~i[
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://wp.techtarget.itmedia.co.jp/">
+             <div>
+              zCgy[p[
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/kw/atmarkit_ebook.html">
+             <div>
+              eBook
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="http://jibun.atmarkit.co.jp/scenter/ittrain/">
+             <div>
+              g
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="http://el.jibun.atmarkit.co.jp/">
+             <div>
+              uO
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="http://job.atmarkit.co.jp/">
+             <div>
+              ]E
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://hyouban.atmarkit.co.jp/">
+             <div>
+              éÆûR~
+             </div>
+            </a>
+           </div>
+          </div>
+          <div class="g_local g_local_btn">
+           <div class="g_lnav_o">
+            <a href="//www.atmarkit.co.jp/ait/subtop/cloud.html">
+             <div>
+              NEh
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="//www.atmarkit.co.jp/ait/subtop/ai.html">
+             <div>
+              AI IoT
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="//www.atmarkit.co.jp/ait/subtop/devops.html">
+             <div>
+              AWC/DevOps
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="//www.atmarkit.co.jp/ait/subtop/security.html">
+             <div>
+              ZLeB
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="//www.atmarkit.co.jp/ait/subtop/jibun/">
+             <div>
+              LA&amp;XL
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="//www.atmarkit.co.jp/ait/subtop/win/">
+             <div>
+              Windows
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="//www.atmarkit.co.jp/ait/subtop/di/">
+             <div>
+              @BwK
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="javascript:void(0);">
+             <div>
+              »Ì¼
+             </div>
+            </a>
+            <div class="g_lnav_i">
+             <ul>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/server/">
+                <div>
+                 Server &amp; Storage
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/ux/">
+                <div>
+                 HTML5 + UX
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/smart/">
+                <div>
+                 Smart &amp; Social
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/coding/">
+                <div>
+                 Coding Edge
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/java/">
+                <div>
+                 Java Agile
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/db/">
+                <div>
+                 Database Expert
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/linux/">
+                <div>
+                 Linux  OSS
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/network/">
+                <div>
+                 Master of IP Network
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/security/">
+                <div>
+                 Security &amp; Trust
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/systemdesign/">
+                <div>
+                 System Design
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/testtools/">
+                <div>
+                 Test &amp; Tools
+                </div>
+               </a>
+              </li>
+              <li>
+               <a href="//www.atmarkit.co.jp/ait/subtop/dotnet/">
+                <div>
+                 Insider.NET
+                </div>
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+          <div class="g_local g_local_txt">
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/atmarkit_20th/index.html">
+             <div>
+              IT 20üN
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/smart/ai_tech_2020.html">
+             <div>
+              AIpÌ½ßÌZp
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/coding/lowcode.html">
+             <div>
+              [R[hJ­
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/systemdesign/modernapps.html">
+             <div>
+              T[o¼z»ÆRei
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/systemdesign/sre_index.html">
+             <div>
+              SRE
+             </div>
+            </a>
+           </div>
+           <div class="g_lnav_o">
+            <a href="https://www.atmarkit.co.jp/ait/subtop/features/theme/index.html">
+             <div>
+              »Ì¼ÌÁW
+             </div>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="g_nav_box">
+         <div class="g_btn" data-menu="0" id="g_btn_member">
+          <div class="g_float g_float_right">
+          </div>
+          <a class="g_inbtn" href="javascript:void(0);">
+           <div class="g_circles">
+            <div class="g_circle">
+            </div>
+            <div class="g_circle">
+            </div>
+            <div class="g_circle">
+            </div>
+           </div>
+           <div class="g_txt">
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <script async="" src="/js/gnavi.js?202005201130">
+     </script>
+     <div id="masterBodyOuter">
+      <!-- -->
+      <div id="masterBodyInner">
+       <div id="masterHeader">
+        <div id="globalHeader">
+         <div id="globalHeaderMiddle">
+          <!-- ITN -->
+          <!-- masterType = not 404 -->
+          <!-- masterType = not 404 && not noad -->
+          <div id="ITN">
+           <script>
+            adRequest({'position':'ITN'});
+           </script>
+          </div>
+         </div>
+         <div id="globalHeaderBottom">
+          <div id="localPankuzu">
+           <div class="lpanOut">
+            <div class="lpanIn">
+             <ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+              <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+               <a href="https://www.atmarkit.co.jp/" itemprop="item" itemscope="" itemtype="http://schema.org/Thing">
+                <span itemprop="name">
+                 IT
+                </span>
+               </a>
+               <meta content="1" itemprop="position"/>
+              </li>
+              <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+               <span id="lastPankuzu" itemprop="name">
+               </span>
+               <meta content="2" itemprop="position"/>
+              </li>
+             </ol>
+             <script type="text/javascript">
+              var pankuzuspan = document.getElementById('lastPankuzu');
+var str = document.title.replace(/\<\!\-\-EDIT START\-\-\>/g,'').replace(/\<\!\-\-EDIT END\-\-\>/g,'').replace(' - IT','');
+str = cutString(str,50);
+pankuzuspan.innerText = str;
+             </script>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- /#globalHeader -->
+       </div>
+       <div id="masterContents">
+        <div id="globalContents">
+         <div id="masterMain">
+          <style type="text/css">
+           <!--
+
+
+
+-->
+          </style>
+          <div id="subtopTitleWrap">
+           <div id="subtopTitleWrapInner">
+            <div id="subtopTitle">
+             <h1>
+              NEh
+             </h1>
+            </div>
+           </div>
+          </div>
+          <!--EDIT START-->
+          <!--EDIT END-->
+          <div id="subtopContents">
+           <!--EDIT START-->
+           <!--EDIT END-->
+           <div class="colBox colBoxSubtopFree">
+            <div class="colBoxOuter">
+             <div class="colBoxInner">
+              <!-- CMS index -->
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/29/news025.html">
+                 <img align="left" alt="icon" border="0" height="180" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/29/240_news025.png" vspace="2" width="240"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Linuxî{R}hTipsi399jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/29/news025.html">
+                  y namei zR}h\\t@CpXÌfBNgât@CÌîñð\¦·é
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 {AÚÍALinuxÌR}hÉÂ¢ÄAî{®©çIvVAïÌIÈÀsáÜÅðÐîµÄ¢«Ü·B¡ñÍt@CpXÌfBNgât@CÌîñð\¦·éunameivR}hÅ·B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/29j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div id="ISTLC">
+               <script>
+                adRequest({'position':'4ISTLC'});
+               </script>
+              </div>
+              <!-- ISTLC -->
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/29/news020.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/29/top_news020.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Tech TIPSF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/29/news020.html">
+                  Microsoft EdgeÌðâLbVðíµÄÂlîñðçé
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 PCðCÉo·ÛÈÇÉWebuEUÌ{ðâLbVð»ÌÜÜÉµÄ¨­ÆA»±©çÂlîñâpX[hÈÇªR¦¢µÄµÜ¤ë¯ª éB»±ÅAMicrosoft EdgeÅ{ðâLbVÈÇðíiNAj·éû@ðÐîµæ¤B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/29j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/29/news011.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/29/top_news011.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Gartner Insights Pickupi160jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/29/news011.html">
+                  [g[J[ÌÂ»ªITZLeBÌV½ÈÛèÉ
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 ZLeB`[ÍAVµ¢Æ±ÌâèûªZLeBÌÂ«ÉÇñÈe¿ð^¦é©ðµÈ¯êÎÈçÈ¢B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/29j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/28/news060.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/28/top_news060.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 DockerÆMicrosoftªV½ÈAgF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/28/news060.html">
+                  Docker DesktopÆVSCodeAAzure Container InstancesÆÌAgª­»
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 @DockerÍ2020N527úiÄÔjAMicrosoftÆÌV½Èñgð­\µ½BDocker DesktopÆAMicrosoftÌT[oXReiT[rXuAzure Container InstancesiACIjv¨æÑR[hGfB^[ÌuVisual Studio CodeiVS CodejvÆÌAgð­»·éBDockerR}hðgÁ½ACIãÅÌAvP[VÀsªÂ\ÉÈéB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/28j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/28/news030.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/28/top_news030.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 ¼z}VãÆNEhlCeBuãÌá¢F
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/28/news030.html">
+                  ÂRªêÁ½AuNEhlCeBuvªâªÄuKuberneteslCeBuvÖiÞR
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 ÂR^çÍ2020N520úAForkwellåÃÌIC~[gAbvÅA¼z}VãÌJ­ÆKubernetesÉæéNEhlCeBuÈJ­Ì±ê©çÉÂ¢Äbµ½B±ÌuðvñµÄ¨Í¯·éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/28j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/28/news018.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/28/top_news018.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Windows 10 The LatestF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/28/news018.html">
+                  Â¢É®¬uWindows TerminalvÌ@\Æg¢ûÜÆß
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 MicrosoftªI[v\[XÅJ­ðißÄ¢½Vµ¢^[~iAvuWindows TerminalvªÂ¢ÉVer.1.0ÆÈè³®[XÆÈÁ½B±ÌWindows TerminalÌåÈ@\Æg¢ûðÜÆßÄÝ½B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/28j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/27/news021.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/27/top_news021.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Google Chrome®SKChF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/27/news021.html">
+                  yGoogle Chromez¦·¬½^uðuO[vvÅ®·é
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 Google ChromeÅWebð©Ä¢½çA^uª¦·¬ÄAÇ±É½Ì^uª éÌ©ª©çÈ­ÈÁÄµÜÁ½ccBV@\u^uO[vvðg¦ÎA»Ìæ¤ÈâèððÅ«é©àµêÜ¹ñBO[vÉæé^uÌ®û@ððàµÜ·B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/27j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/26/news016.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/26/top_news016.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 HÎ½¯Ilbg[NGWjAi28jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/26/news016.html">
+                  uÝîvt@[XgÌéÆlbg[NÝvA3ÂÌ|CgÆÍH
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 V^RiECXÌ´õ\hÎôÆµÄAÝîÎ±ªêCÉLªÁ½B¡âéÆÌlbg[N[U[ÍÐàÅÍÈ­©î©çANZXµÄ¢éêª­È­È¢BuAt^[RivÆÈÁÄàA­«ûüvÌèÆÜÁÄÝît@[XgÍ±­¾ë¤B±Ìæ¤ÈóµðOñÆµ½éÆlbg[NÝvÌ|CgÉÂ¢Äq×éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/27j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/27/news010.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/27/top_news010.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 RsÇÌ¤¡ñÇ¤¸úLi179jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/27/news010.html">
+                  Windows 10ÌWindows UpdateªÄN®Ò¿ÉÈÁ½ç©®Vbg_E·éXNvg
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 OñÍAÁèÌvZXðÄµÄAI¹ãÉVbg_E·éPowerShellXNvgðÐîµÜµ½B¡ñà»ÌpÅAWindows 10ÌWindows UpdateªÄN®Ò¿ÉÈÁ½ç©®IÉVbg_EðJn·éXNvgðÐîµÜ·B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/27j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/26/news070.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/26/top_news070.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Amazon ECSâAWS FargateðpF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/26/news070.html">
+                  RiÐÅâ¢í¹ªñ10{AICfÃT[rXucuronvðx¦½A[LeN`ÆÍ
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 V^RiECX´õÇiCOVID-19jÌe¿ÅICfÃÌj[YªÜÁÄ¢éBICfÃT[rXðñ·éMICINÍ}·éùvÉÇ¤ÎµÄ¢éÌ©ðêÁ½B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/26j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/26/news005.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/26/top_news005.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 }l[WhT[rXÅnßéKubernetesüåi5jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/26/news005.html">
+                  ÄAMOAgNX\\KubernetesÆÄÌb
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 AWSªñ·é}l[WhKubernetesT[rXÌuEKSvðp¢ÄAvP[VðöJ·éû@ðÐî·é{AÚBÅIñÍAKubernetesÅAvP[VðöJãÉKvÆÈéuÄvÉÂ¢ÄB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/26j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/25/news046.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/25/top_news046.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 »sTanzu Application Serviceàp±ñF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/25/news046.html">
+                  KubernetesÎÌTanzu Application ServiceÍ2020Næ4l¼úÉGAÖ
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 VMwareÍAKubernetesÎÌuVMware Tanzu Application ServiceiPivotal Application ServicejvðA2020Næ4l¼úÌêÊñJnÉü¯AJ­ðißÄ¢éÆ¢¤BêûA»sÌTanzu Application ServiceàAp±µÄñ·éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/25j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/25/news012.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/25/top_news012.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Tech TIPSF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/25/news012.html">
+                  yExcelz}EXhbOÅÌXN[IðªÊ|@å«È\ðê­I[gtB·éû@
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 ExcelÅA±µ½lðüÍ·éÛAlâ®ðüÍµ½ZðhbOµÄRs[·éuI[gtBvÆÄÎêé@\ðpµÄ¢éÌÅÍÈ¢¾ë¤©B½¾Aå«È\ÌêAZðhbO·éÌÍ­XÊ|¾B»±ÅAå«È\ÅI[gtBðs¤êÅàÈPÉÀsÅ«éeNjbNðÐîµæ¤B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/25j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/25/news007.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/25/top_news007.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Microsoft AzureÅV@\tH[Abvi109jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/25/news007.html">
+                  Azure Cloud ShellÉàÚ±Å«éuWindows TerminalvÌ³®Åª[X
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 MicrosoftÍ2020N519úiÄÔjAfW^CxgÆµÄJÃ³ê½uMicrosoft Build 2020vÉ¨¢ÄAuWindows Terminal 1.0vÌ[Xð­\µÜµ½B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/25j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news052.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/22/top_news052.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 uBeyondCorpvÌêÂF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news052.html">
+                  Google CloudA[gXgÈWindowsT[oÇÒpRDPNCAgAuIAP Desktopvð­\
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 Google CloudÍAuBeyond CorpvÖÌæègÝÌêÂÆµÄAGoogle Cloud PlatformãÌWindows¼z}VÉÎ·éÀSÈRDPANZXðÀ»·éI[v\[XÌWindowsAvP[VAuIAP Desktopvð­\µ½B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/22j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news028.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/22/top_news028.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Linuxî{R}hTipsi398jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news028.html">
+                  y git push zR}hipÒj\\WFNgâRtNgªN«½Æ«Ç¤·é©
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 {AÚÍALinuxÌR}hÉÂ¢ÄAî{®©çIvVAïÌIÈÀsáÜÅðÐîµÄ¢«Ü·B¡ñÍGitÌ[J|WgÌàeð[g|WgÉM·éugit pushvR}hÅ·BWFNgâRtNgªN«½Æ«ÇÌæ¤ÉðÁ·éÌ©ððàµÜ·B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/22j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news018.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/22/top_news018.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Tech TIPSF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news018.html">
+                  Ê|Èc[Ígí¸ÉWindows 10¾¯ÅZIPt@Cðì¬AWJ·é
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 [Ét@CðYt·éÛÈÇÉàp³êéuZIPt@CvBWindows 10ÉÚ³êÄ¢éW@\ÅZIPt@Cðì¬µ½èAWJiðjµ½è·éû@ðÐî·éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/22j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news008.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/22/top_news008.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Gartner Insights Pickupi159jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/22/news008.html">
+                  CIOª2020NxÉæègÞ×«A10ÌÚWá
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 CIOÍA2020NxÉ©gÌdÍðßé½ßAÇÌæ¤ÈÚWð§Äé×«©B10ÌÚWáðÐî·éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/22j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/21/news056.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/21/top_news056.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Microsoft Build 2020F
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/21/news056.html">
+                  MicrosoftA}`NEhKubernetesÇ@\uAzure Arc enabled KubernetesvÌvr[ñðJn
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 MicrosoftÍ2020N520úiÄÔjANCxguMicrosoft Build 2020vÅAnCubh^}`NEhKubernetesÇ@\AuAzure Arc enabled KubernetesvÌvr[ÅðñJnµ½Æ­\µ½B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/21j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/21/news023.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/21/top_news023.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Linuxî{R}hTipsi397jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/21/news023.html">
+                  y git push zR}hiîbÒj\\[J|WgÌàeð[g|WgÉM·é
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 {AÚÍALinuxÌR}hÉÂ¢ÄAî{®©çIvVAïÌIÈÀsáÜÅðÐîµÄ¢«Ü·B¡ñÍGitÌ[J|WgÌàeð[g|WgÉM·éugit pushvR}hÅ·B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/21j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/21/news013.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/21/top_news013.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 ª]úkF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/21/news013.html">
+                  æ240ñ IntelÌCoÍg^H@uMoovitvûÅMaaSsêð_¤
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 IntelªMaaSðè|¯éuMoovitvðûµ½B3NOÌ©®^]VXeÌMobileyeÉ±­A©®ÔÖAÌïÐ¾BMoovitÌûÅIntelªÉ_¤sêª©¦Ä«½B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/21j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/20/news046.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/20/top_news046.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Microsoft Build 2020F
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/20/news046.html">
+                  MicrosoftAf[^ªÍ^AIÅuAzure Synapse LinkvâuX|VuAIvð­\
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 MicrosoftÍ2020N519úiÄÔjAuMicrosoft Build 2020vÅAf[^ªÍâ@BwK^AIÉÖ·é¡Ì­\ðsÁ½B±êÉÍªÍÌ½ßÌf[^Ìob`Ú®ìÆðr·éuAzure Synapse LinkvâAà¾Â\ÅoCAXÌÈ¢AIðÚw·uResponsible AIvAAIÌ½ßÌX[p[Rs[^[ªÜÜêéB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/20j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/20/news009.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/20/top_news009.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 »Ìm¯AzgÉ³µ¢H WindowsÉÜÂíéss`ài160jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/20/news009.html">
+                  Á¦éuWinREvâèAWindows 10 o[W2004Åæ¤â­ðÁI
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 {AÚÅÍ±êÜÅAWindows 10ÌVKCXg[Åì¬³êéusKØÈp[eBV\¬ÌâèvÉÂ¢Ä½x©æèã°Üµ½B±ÌâèÍAWindows 10Ìúo[W©çöÝIÉ¶ÝµAWindows 10 o[W1803È~A°Ý»·éæ¤ÉÈèÜµ½B·ç­úu³êÄ«½±ÌâèÅ·ªAÔàÈ­[X³êé\èÌuWindows 10 May 2020 Updateio[W2004jviÊÌA20H1jÅæ¤â­ð³êéæ¤Å·BÈ¨A{eÍJ­ÌInsider PreviewrhÉîÃ¢Ä¢Ü·ªA®¬ÅÉà¨»ç­Kp³êÜ·B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/20j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/0508/27/news022.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/0508/27/top_news022.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Tech TIPSF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/0508/27/news022.html">
+                  y[g[N©R©Ýz[gfXNgbvÌÖÈV[gJbgL[iWindowsÒj
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 [gfXNgbvðEBhE\¦ÉµÄ¢éÆAWindows OSWÌV[gJbgL[ªø©È¢±Æª éB»Ìæ¤ÈêÍA[gfXNgbvêpÌV[gJbgL[ðp·é©AÚ±ÌIvVÝèðÏX·êÎðÅ«éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/20j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/20/news032.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/20/top_news032.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 OpenShift 4.4ÌV@\ÆÍF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/20/news032.html">
+                  bhnbgAOpenShiftÌi»Æú{sêÉ¨¯éæègÝðà¾
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 bhnbgÍ2020N519úAú{Ìñ¹ÖWÒâAiXgÉü¯ÄA2020N4ÌuRed Hat Summit 2020vÉ¨¯é­\àeâú{sêÅÌæègÝÉÂ¢Äà¾µ½B{LÅÍOpenShift 4.4ÌV@\ÉÂ¢Äàæèã°éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/19j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/19/news004.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/19/top_news004.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 éÆ[U[É¡éWindows 10ÖÌæè·¦Äài74jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/19/news004.html">
+                  V^RiECX´õgåÌ]g\\Windows 10ÌCtTCNÖÌe¿ÍH
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 {AÚÅ½x©æèã°Ä«½æ¤ÉAWindows 10ÍNÉ2ñAtÆHÉ@\XVvOÆµÄVo[W^rhª[X³êA»ÌTCNªp±³êÜ·B]ÌuÅá10NvÌ»iCtTCNÍAVµ¢[XTCNÉí¹½_CtTCN|V[ÉÏX³êÜµ½BÅVîñðèúIÉ`FbNµÄAÓ}¹¸T|[gÎÛOÉÈçÈ¢æ¤ÉÓµÜµå¤B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/19j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/18/news011.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/18/top_news011.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Tech TIPSF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/18/news011.html">
+                  Nbv{[hÌåf[^ðÁµÄWindowsð¬»
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 Nbv{[hÍÈPÉf[^ðRs[y[XgÅ«éÖÈdgÝ¾ªAêÉæÁÄÍ\zOÉåÊÌf[^ªNbv{[hÉi[³êAð³µÄ¢éêª éBNbv{[hÌf[^ðNAµÄAðó¯éû@ðÐîµæ¤B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/18j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/18/news003.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/18/top_news003.png" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Microsoft AzureÅV@\tH[Abvi108jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/18/news003.html">
+                  V¶uAzure VMware SolutionvÌvr[ªJn
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 MicrosoftÍAzureÌCtXgN`ãÉÚqêpÌlCeBuÈVMwareNEhÂ«ð\zÅ«éæ¤É·éuAzure VMware SolutionvÌvr[ñðJnµÜµ½B±ÌVµ¢T[rXÍAÈO©çvr[ñ³êÄ¢½uAzure VMware Solution by CloudSimplevðu«·¦éàÌÅAV½Éo^§ÅÌvr[ªJn³êÜµ½BêÊñÍ2020Nº¼úÌ\èÅ·B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/18j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/15/news056.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/15/top_news056.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 VMwareCtðGCPãÅÒ­F
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/15/news056.html">
+                  Google CloudAuGoogle Cloud VMware EnginevðÄÅêÊñJnÖA2020Nã¼ÉÍÉàWJ
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 Google CloudÍ2020N514úiÄÔjAGoogle Cloud PlatformãÅVMwareCtð©®\zÅ«éuGoogle Cloud VMware EnginevÌêÊñðA2020Næ2l¼úÉÄÅJn·éÆ­\µ½B2020Nã¼ÉÍAðÜÞÄOÌ[WÉàWJ·éÆ¢¤B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/15j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/15/news020.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/15/top_news020.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Windows 10 The LatestF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/15/news020.html">
+                  Oo[W©çåÉ«\üãµ½VLinuxÂ«uWSL 2vÌÀÍðTé
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 Windows 10 May 2020 UpdateÌÚÊ@\Å éWindows Subsystem for LinuxiWSLjÌVo[WuWSL 2vÌCXg[©ç«\]¿ÜÅðæèã°éBWSL 2ÉÈÁÄÇÌæ¤ÈÏXªsíê½Ì©ð¾ç©É·éB
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/15j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxIcon">
+                <a href="//www.atmarkit.co.jp/ait/articles/2005/15/news007.html">
+                 <img align="left" alt="icon" border="0" height="90" hspace="2" src="//image.itmedia.co.jp/ait/articles/2005/15/top_news007.jpg" vspace="2" width="120"/>
+                </a>
+               </div>
+               <div class="colBoxSubTitle">
+                <h5>
+                 Gartner Insights Pickupi158jF
+                </h5>
+               </div>
+               <div class="colBoxTitle">
+                <h3>
+                 <a href="//www.atmarkit.co.jp/ait/articles/2005/15/news007.html">
+                  CIOª¡AfW^gXtH[[VÌpCIjAÉÈéÉÍ
+                 </a>
+                </h3>
+               </div>
+               <div class="colBoxDescription">
+                <p>
+                 CIOÍA©ÐÌfW^gXtH[[Vð[hµ¾éLÈ§êÉ éB¾ªAíªð§ÄÄ±êðImÉïÌ»µAe¿ÍðsgµÈ¯êÎúÒÉ¦çêÈ¢BÅÍA½ð·êÎ¢¢Ì©B
+                </p>
+               </div>
+               <div class="colBoxIndexDate">
+                <p>
+                 <span class="colBoxDate">
+                  i2020/05/15j
+                 </span>
+                </p>
+               </div>
+               <div class="colBoxClear">
+               </div>
+              </div>
+              <!-- CMS index end -->
+             </div>
+            </div>
+           </div>
+           <div class="colBox colBoxSubtopImage colBoxlinks">
+            <div class="colBoxOuter">
+             <div class="colBoxHead">
+              <h2>
+               ÖAN
+              </h2>
+             </div>
+             <div class="colBoxInner">
+              <div class="colBoxIndex">
+               <div class="colBoxImage">
+                <a href="//www.atmarkit.co.jp/ait/subtop/win/">
+                 <img src="//image.itmedia.co.jp/ait/images/title_forum_small_win.gif"/>
+                </a>
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxImage">
+                <a href="//www.atmarkit.co.jp/ait/subtop/sys/">
+                 <img src="//image.itmedia.co.jp/ait/images/title_forum_small_sys.gif"/>
+                </a>
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxImage">
+                <a href="//www.atmarkit.co.jp/ait/subtop/server/">
+                 <img src="//image.itmedia.co.jp/ait/images/title_forum_small_server.gif"/>
+                </a>
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxImage">
+                <a href="//www.atmarkit.co.jp/ait/subtop/linux/">
+                 <img src="//image.itmedia.co.jp/ait/images/title_forum_small_linux.gif"/>
+                </a>
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxImage">
+                <a href="//www.atmarkit.co.jp/ait/subtop/network/">
+                 <img src="//image.itmedia.co.jp/ait/images/title_forum_small_network.gif"/>
+                </a>
+               </div>
+              </div>
+              <div class="colBoxIndex">
+               <div class="colBoxImage">
+                <a href="//www.atmarkit.co.jp/ait/subtop/systemdesign/">
+                 <img src="//image.itmedia.co.jp/ait/images/title_forum_small_systemdesign.gif"/>
+                </a>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="colBoxClear">
+           </div>
+           <script>
+            (function(){
+document.getElementById('masterMain').classList.add('catemp');
+})();
+           </script>
+           <!--EDIT START-->
+           <!--EDIT END-->
+          </div>
+          <!--EDIT START-->
+          <!--EDIT END-->
+         </div>
+         <div id="masterSub">
+          <!--Tugbv-->
+          <div id="rc_globalSearch">
+           <script>
+            (function() {
+    var cx = 'partner-pub-2201843946232317:3599924245';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+           </script>
+           <gcse:searchbox-only>
+           </gcse:searchbox-only>
+           <style type="text/css">
+            input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus {
+	border-color:#D9D9D9;
+}
+input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+	border-color:#2F5BB7;
+	background-color:#357AE8;
+	background-image:none;
+	filter:none;
+}
+           </style>
+          </div>
+          <div id="LOGOAD">
+           <script>
+            adRequest({'position':'10LOGOAD'});
+           </script>
+          </div>
+          <div id="ITR">
+           <script>
+            adRequest({'position':'ITR'});
+           </script>
+          </div>
+          <div id="ITTI">
+           <script>
+            adRequest({'position':'2ITTI'});
+           </script>
+          </div>
+          <div id="MSITTI">
+           <div class="colBox colBoxMSITTI">
+            <div class="colBoxOuter">
+             <div class="colBoxInner">
+              <div class="colBoxIndex">
+               <div class="colBoxUlist">
+                <ul>
+                 <script>
+                  adRequest({'position':'2MSITTI'});
+                 </script>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div id="ITNI">
+           <script>
+            adRequest({'position':'ITNI'});
+           </script>
+          </div>
+          <div id="ISALR">
+           <script>
+            adRequest({'position':'10ISALR'});
+           </script>
+          </div>
+          <div class="colBox colBoxTensyoku" id="colBoxTensyoku">
+           <div class="colBoxOuter">
+            <div class="colBoxHead">
+             <p>
+              ]E^h­îñðT·
+             </p>
+            </div>
+            <div class="colBoxInner">
+             <div class="colBoxIndex">
+              <div class="colBoxIcon">
+               <a href="http://job.atmarkit.co.jp/" title="NûUOO~IGWjAü¯ÌlÚB]Eó]ÒK©">
+                <img src="//image.itmedia.co.jp/ait/images/htmlgen/top_dokusyacolumn_icon1_1_1456451890.png"/>
+               </a>
+              </div>
+              <div class="colBoxTitle">
+               <p>
+                <a href="http://job.atmarkit.co.jp/" title="NûUOO~IGWjAü¯ÌlÚB]Eó]ÒK©">
+                 NûUOO~IGWjAü¯ÌlÚB]Eó]ÒK©
+                </a>
+               </p>
+              </div>
+              <div class="colBoxClear h10px">
+              </div>
+             </div>
+             <div class="colBoxIndex">
+              <div class="colBoxIcon">
+               <a href="http://job.atmarkit.co.jp/" title="GWjAÌ½ßÌ]EæTµy]ET[`z">
+                <img src="//image.itmedia.co.jp/ait/images/htmlgen/top_dokusyacolumn_icon2_1_1546843433.jpg"/>
+               </a>
+              </div>
+              <div class="colBoxTitle">
+               <p>
+                <a href="http://job.atmarkit.co.jp/" title="GWjAÌ½ßÌ]EæTµy]ET[`z">
+                 GWjAÌ½ßÌ]EæTµy]ET[`z
+                </a>
+               </p>
+              </div>
+              <div class="colBoxClear h10px">
+              </div>
+             </div>
+             <div class="colBoxClear">
+             </div>
+            </div>
+           </div>
+          </div>
+          <!-- ]E^h­îñðT· -->
+          <!-- Cxense content widget: IT TTv~ARecU±g -->
+          <div id="tt_premiumcontents">
+           <div id="cx_a8b6eaa23e62da9fb7a469aa981c2d39877da134" style="display:none">
+           </div>
+          </div>
+          <script type="text/javascript">
+           var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+(function(){
+	var w = window;
+	var d = document;
+	var flag_widget= false;
+	var browser_h = getBrowserWH()['h'];
+	var setid = d.getElementById('tt_premiumcontents');
+	var setid_y;
+	var scroll_y;
+	var threshold_y;
+	var cxInsertWidget;
+	var evt_scroll = function(){
+		scroll_y = (function(){
+			return d.documentElement.scrollTop || d.body.scrollTop;
+		})();
+		setid_y = getElementXY(setid)['y'];
+		threshold_y = setid_y - browser_h;
+		if(scroll_y > threshold_y && !flag_widget){
+			flag_widget = true;
+			w.removeEventListener('scroll',evt_scroll,false);
+			cX.callQueue.push(['insertWidget', {
+				widgetId: 'a8b6eaa23e62da9fb7a469aa981c2d39877da134',
+				insertBeforeElementId: 'cx_a8b6eaa23e62da9fb7a469aa981c2d39877da134',
+				width: 300, height: 300, renderTemplateUrl: 'auto'
+			}]);
+		}
+	};
+	evt_scroll();
+	if(!flag_widget) w.addEventListener('scroll',evt_scroll,false);
+})();
+          </script>
+          <!-- End of Cxense content widget -->
+          <!-- TechTarget v~ARec Cxense Widget -->
+          <div id="teemasiteBanner">
+           <script defer="">
+            (function(){
+	var data = {
+		'name':'ÚÌe[}',
+		'list':[
+				{'url':'/ait/subtop/features/smart/ai_tech_2020.html','img':'/ait/images/htmlgen/rc_teemasitebanner_4_1590747018.gif','forum':'top,smartandsocial,designhack,html5plusux,serverandstorage,windowsserverinsider,businessappinsider,insiderdotnet,systeminsider,railshub,codingedge,javaagile,databaseexpert,linuxandoss,masterofipnetwork,securityandtrust,systemdesign,testandtools,ljibun,lcareer,lskill,jibun'},
+				{'url':'/ait/subtop/features/coding/lowcode.html','img':'/ait/images/htmlgen/rc_teemasitebanner_5_1587952744.gif','forum':'top,smartandsocial,designhack,html5plusux,serverandstorage,windowsserverinsider,businessappinsider,insiderdotnet,systeminsider,railshub,codingedge,javaagile,databaseexpert,linuxandoss,masterofipnetwork,securityandtrust,systemdesign,testandtools,ljibun,lcareer,lskill,jibun'},
+				{'url':'/ait/subtop/features/systemdesign/modernapps.html','img':'/ait/images/htmlgen/rc_teemasitebanner_6_1587000008.jpg','forum':'top,smartandsocial,designhack,html5plusux,serverandstorage,windowsserverinsider,businessappinsider,insiderdotnet,systeminsider,railshub,codingedge,javaagile,databaseexpert,linuxandoss,masterofipnetwork,securityandtrust,systemdesign,testandtools,ljibun,lcareer,lskill,jibun'},
+				{'url':'/ait/subtop/features/systemdesign/sre_index.html','img':'/ait/images/htmlgen/rc_teemasitebanner_1_1583726075.jpg','forum':'top,smartandsocial,designhack,html5plusux,serverandstorage,windowsserverinsider,businessappinsider,insiderdotnet,systeminsider,railshub,codingedge,javaagile,databaseexpert,linuxandoss,masterofipnetwork,securityandtrust,systemdesign,testandtools,ljibun,lcareer,lskill,jibun'},
+				{'url':'https://www.atmarkit.co.jp/ait/subtop/features/coding/organization_index.html','img':'/ait/images/htmlgen/rc_teemasitebanner_4_1577409635.gif','forum':'top,smartandsocial,designhack,html5plusux,serverandstorage,windowsserverinsider,businessappinsider,insiderdotnet,systeminsider,railshub,codingedge,javaagile,databaseexpert,linuxandoss,masterofipnetwork,securityandtrust,systemdesign,testandtools,ljibun,lcareer,lskill,jibun'},
+				{'url':'/ait/subtop/features/security/win10_sec.html','img':'/ait/images/htmlgen/rc_teemasitebanner_6_1550821191.png','forum':'top,smartandsocial,designhack,html5plusux,serverandstorage,windowsserverinsider,businessappinsider,insiderdotnet,systeminsider,railshub,codingedge,javaagile,databaseexpert,linuxandoss,masterofipnetwork,securityandtrust,systemdesign,testandtools,ljibun,lcareer,lskill,jibun'},
+		{}
+		]
+	};
+	var list = data.list;
+	if(list.length <=1) return false;
+	var bannerList = document.getElementById('teemasiteBanner');
+	if(!bannerList) return false;
+	var html = '';
+	var listhtml = '';
+	var extraid = '';
+	var adpath = '';
+	if(getMETA('extraid')){
+		extraid = getMETA('extraid').getAttribute('content');
+	} else {
+		extraid = '';
+	}
+	if(getMETA('adpath')){
+		adpath = getMETA('adpath').getAttribute('content');
+	}
+	for(var i=0;i<list.length-1;i++) {
+		if(!list[i]['forum']) continue;
+		var forumtest = list[i]['forum'].split(',');
+		for(var j=0;j<forumtest.length;j++) {
+			if(!forumtest[j]) continue;
+			if((forumtest[j] == 'top') && (adpath == 'root/ITmedia/ait/top')) {
+				listhtml += '<div class="colBoxIndex"><div class="colBoxBanner"><a href="' + list[i]['url'] + '"><img src="' + imgSrv() + list[i]['img'] + '"></a></div></div>\n';
+			} else if(!extraid) {
+				continue;
+			} else if(extraid.match('kw-' + forumtest[j])) {
+				listhtml += '<div class="colBoxIndex"><div class="colBoxBanner"><a href="' + list[i]['url'] + '"><img src="' + imgSrv() + list[i]['img'] + '"></a></div></div>\n';
+				break;
+			} else {
+				continue;
+			}
+		}
+	}
+	if(!listhtml) return false;
+	html += '<div class="colBox colBoxteemasitebanner"><div class="colBoxOuter">';
+	html += '<div class="colBoxHead"><p>' + data['name'] + '</p></div>';
+	html += '<div class="colBoxInner">';
+	html += listhtml;
+	html += '</div>';
+	html += '</div></div>';
+	html += '<div class="colBoxClear"></div>';
+	bannerList.innerHTML = html;
+})();
+           </script>
+          </div>
+          <!-- ÚÌe[} -->
+          <div id="ITR3">
+           <script>
+            adRequest({'position':'ITR3'});
+           </script>
+          </div>
+          <!-- T[hN^O -->
+          <div class="colBox colBoxArticleRanking" id="colBoxArticleRanking">
+          </div>
+          <!-- tH[LO -->
+          <script type="text/javascript">
+           setForumRankingMonthAndDay();
+          </script>
+          <div class="fb-page" data-adapt-container-width="true" data-height="280" data-hide-cover="false" data-href="https://www.facebook.com/atmarkit/" data-show-facepile="true" data-small-header="true" data-tabs="timeline" data-width="300">
+           <div class="fb-xfbml-parse-ignore">
+            <blockquote cite="https://www.facebook.com/atmarkit/">
+             <a href="https://www.facebook.com/atmarkit/">
+              IT
+             </a>
+            </blockquote>
+           </div>
+          </div>
+          <!-- Facebook PagePlugin -->
+          <div class="colBoxClear h30px">
+          </div>
+         </div>
+         <div class="colBoxClear">
+         </div>
+        </div>
+       </div>
+       <div id="mediaFooter">
+        <div id="mediaFooterBgArea">
+        </div>
+        <div class="mediaFooterMediaList">
+         <div class="colBoxIndex colBoxAit">
+          <div class="colBoxTitle">
+           <p>
+            @ITÉÂ¢Ä
+           </p>
+          </div>
+          <div class="colBoxUlist">
+           <ul>
+            <li>
+             <a href="http://www.atmarkit.co.jp/aboutus/contact_us/contact_us.html" title="¨â¢í¹">
+              ¨â¢í¹
+             </a>
+            </li>
+            <li>
+             <a href="http://www.atmarkit.co.jp/aboutus/termofuse/termofuse.html" title="pKñ">
+              pKñ
+             </a>
+            </li>
+            <li>
+             <a href="http://www.atmarkit.co.jp/aboutus/copyright/copyright.html" title="ì ENEÆÓ">
+              ì ENEÆÓ
+             </a>
+            </li>
+            <li>
+             <a href="http://www.atmarkit.co.jp/info/sitemap/sitemap.html" title="TCg}bv">
+              TCg}bv
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="colBoxClear">
+          </div>
+         </div>
+         <div class="colBoxIndex colBoxRSS">
+          <div class="colBoxTitle">
+           <p>
+            RSSÉÂ¢Ä
+           </p>
+          </div>
+          <div class="colBoxUlist">
+           <ul>
+            <li>
+             <a href="https://corp.itmedia.co.jp/media/rss_list/" title="ITÌRSSê">
+              ITÌRSSê
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="colBoxClear">
+          </div>
+         </div>
+         <div class="colBoxIndex colBoxID">
+          <div class="colBoxTitle">
+           <p>
+            ACeBfBAIDÉÂ¢Ä
+           </p>
+          </div>
+          <div class="colBoxUlist">
+           <ul>
+            <li>
+             <a href="http://id.itmedia.jp/info/campaign/all_id.html" title="ACeBfBAIDÆÍ">
+              ACeBfBAIDÆÍ
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="colBoxClear">
+          </div>
+         </div>
+         <!-- fBAtb^[ -->
+         <div class="colBoxIndex colBoxMailmagazine">
+          <div class="colBoxTitle">
+           <p>
+            [}KWo^
+           </p>
+          </div>
+          <div class="colBoxDescription">
+           <p>
+            ITÌ[}KWÍA à¿ëñA·×Ä³¿Å·BºÐ[}KWð²wÇ­¾³¢B
+           </p>
+           <div id="registerButton">
+            <a href="http://www.atmarkit.co.jp/ait/subtop/info/lp/ait_new.html">
+             \µÝy[WÖ
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="colBoxClear">
+         </div>
+        </div>
+       </div>
+       <div id="masterFooter">
+        <div id="globalFooter">
+         <div id="footerBgArea">
+         </div>
+         <!-- GLOBALFOOTER -->
+         <!-- masterChannel == ait|mn|ee|edn|tf|tt -->
+         <style>
+          #globalFooterCorp{
+border:none;
+}
+         </style>
+         <div id="globalFooterCorp">
+          <div id="globalFooterCorpIn">
+           <p id="globalFooterCorpLogo">
+            <a href="https://corp.itmedia.co.jp/">
+             <img height="28" src="//image.itmedia.co.jp/images/logo/170_itmedia_bgw.gif" width="170"/>
+            </a>
+            ITmediaÍACeBfBA®ïÐÌo^¤WÅ·B
+           </p>
+           <p id="globalFooterCorpLink">
+            <a href="https://corp.itmedia.co.jp/media/">
+             fBAê
+            </a>
+            |
+            <a href="https://corp.itmedia.co.jp/media/sns/">
+             ö®SNS
+            </a>
+            |
+            <a href="https://corp.itmedia.co.jp/ad/">
+             LÄà
+            </a>
+            |
+            <a href="https://corp.itmedia.co.jp/corp/inquiry/">
+             ¨â¢í¹
+            </a>
+            |
+            <a href="https://corp.itmedia.co.jp/corp/privacy/">
+             vCoV[|V[
+            </a>
+            |
+            <a href="https://corp.itmedia.co.jp/media/rss_list/">
+             RSS
+            </a>
+            |
+            <a href="https://corp.itmedia.co.jp/">
+             ^cïÐ
+            </a>
+            |
+            <a href="https://corp.itmedia.co.jp/recruit/">
+             Ìpîñ
+            </a>
+           </p>
+          </div>
+         </div>
+         <!-- /#globalFooterCorp -->
+        </div>
+       </div>
+      </div>
+      <!--/masterBodyInner-->
+     </div>
+     <!--/masterBodyOuter-->
+    </div>
+    <!--/masterBodyIn-->
+   </div>
+   <!--/masterBodyOut-->
+  </div>
+  <!--/masterBody-->
+  <script defer="" src="/js/masterBodyEnd.js?202001091455">
+  </script>
+  <!-- window.onload -->
+  <script src="/js/itmid/smartPhoneHeadLink.js">
+  </script>
+  <!-- Smart Phone Large Button-->
+  <!--BEACON-->
+  <div id="BEACON">
+   <div id="N">
+    <!-- SiteCatalyst code version: H.2.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+    <script language="JavaScript" src="/include/sc/s_code.js?20170501">
+    </script>
+    <script language="JavaScript">
+     <!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+function $() {
+  var elements = new Array();
+  for (var i = 0; i < arguments.length; i++) {
+    var element = arguments[i];
+    if (typeof element == 'string')
+      element = document.getElementById(element);
+    if (arguments.length == 1)
+      return element;
+    elements.push(element);
+  }
+  return elements;
+}
+
+//  AIT ÆhCpXðêv³¹é
+// meta adpath
+var adpath = getMetaContent({'keywords':'adpath','encode':'no'}).split('/');
+adpath[3] = adpath[3].replace('article','articles');
+if(adpath[4]) adpath[4] = adpath[4].replace(/^win$/,'windows').replace(/^sys$/,'system').replace(/^ux$/,'wcr');
+var i = 4;
+if(adpath[4] && adpath[4] == 'features'){
+	i = 5;
+	// adpath[5] = adpath[5].replace(/\_\_/g,',');
+	if(adpath[5].indexOf('__') != -1){
+		var temp = adpath[5].split('__');
+		for(var j = 0; j < temp.length; j++){
+			adpath[i + j] = temp[j];
+		}
+	}
+}
+var dp = [];
+dp.push('root');
+dp.push('atmarkit');
+dp.push('atit');
+for(i = i; i < adpath.length; i++){
+	dp.push(adpath[i]);
+}
+dp.push('cont');
+dp.push(adpath[3]);
+if(adpath[4] && adpath[4] == 'features') dp.push('features');
+
+var path = {};
+path['hier1'] = dp.join(',');
+path['hier2'] = dp.join(',').replace(dp[0] + ',','');
+path['hier3'] = dp.join(',').replace(dp[0] + ',','').replace(dp[1] + ',','');
+
+var channelname = 'IT';
+
+s.pageName=document.URL.replace( /(\?|#).*$/, '' );
+s.server="www.atmarkit.co.jp"
+s.channel=channelname + ' ' + dp[3]
+s.pageType=""
+s.hier1=path['hier1']
+s.hier2=path['hier2']
+s.hier3=path['hier3']
+s.prop1=document.URL.replace( /(\?|#).*$/, '' );
+s.prop2=path['hier1']
+if ( $('update') == undefined )
+  s.prop3='';
+else
+  s.prop3=$('update').innerHTML.replace(/\d+ª\sXV/,"");
+if ( $('byline') == undefined )
+  s.prop4=''
+else
+  s.prop4=$('byline').innerHTML.replace(/<b>|<\/b>/ig,'').replace(/\[|\]/g,'');
+/* s.prop5 : ad link name reserves */
+s.prop5=""
+s.prop6=dp[2]
+s.prop7=dp[2] + ',' + dp[3]
+s.prop8=document.title
+s.prop9=navigator.userAgent
+s.prop10=document.URL.replace( /(\?|#).*$/, '' );
+/* s.prop13 : document.URL reserves */
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events="event3"
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+s.prop20=channelname
+s.prop58= (typeof dcl_start === 'undefined')? "": resTime();
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+    </script>
+    <script language="JavaScript">
+     <!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->
+    </script>
+    <!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.2. -->
+    <!-- itmdp start -->
+    <script src="/js/itmdp_code.js">
+    </script>
+    <script>
+     itmdp.sc2itmdp();
+			var itm_pageview = itmdp.pageview();
+    </script>
+    <!-- itmdp end -->
+   </div>
+  </div>
+  <!--/BEACON-->
+  <!-- Treasure Data -->
+  <script>
+   (function(){
+!function(t,e){if(void 0===e[t]){e[t]=function(){e[t].clients.push(this),this._init=[Array.prototype.slice.call(arguments)]},e[t].clients=[];for(var r=function(t){return function(){return this["_"+t]=this["_"+t]||[],this["_"+t].push(Array.prototype.slice.call(arguments)),this}},s=["addRecord","set","trackEvent","trackPageview","trackClicks","ready","fetchGlobalID","fetchUserSegments"],a=0;a<s.length;a++){var c=s[a];e[t].prototype[c]=r(c)}var n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.treasuredata.com/sdk/1.9.2/td.min.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(n,i)}}("Treasure",this);
+// img tag for Logly
+var successCallback = function() {
+    var el = document.createElement('img');
+    el.src = (('https:' == document.location.protocol) ? 'https://' : 'http://')
+           + 'sync.logly.co.jp/sync/sync.gif?ssp_id=618'
+    el.width=1;el.height=1;el.style.display='none';
+    document.body.appendChild(el);
+};
+var getCookie = function(k){
+var cs=document.cookie;
+if(cs){
+var acs=cs.split('; ');
+for(var i=0;i<acs.length;i++){
+var cs=acs[i].split('=');
+if(cs[0]===k){
+return cs[1];
+}
+}
+}
+return '';
+};
+var cX_P=getCookie('cX_P');
+var cX_S=getCookie('cX_S');
+var cX_G=getCookie('cX_G');
+var cX_T=getCookie('cX_T');
+var persisted='cb7d056175548a32fb7b049f5488d3e994880237'; // ¼Ðit[NAEg^FacebookjLT[op
+var td=new Treasure({host:'in.treasuredata.com',writeKey:'10074/f8a32fad2e11b3499ae935d855ff3bb51cbc592c',database:'cx_segments'});
+var cx_seg=(typeof cx_segments !== 'undefined')?cx_segments:''; // ad pÉÅè`Ïinl Ìæ¤ÉóÅ¨èÄ­éêª éj
+var push_data = function(cx_seg){
+	td.set('pageviews',{cx_cookie_p:cX_P,cx_cookie_s:cX_S,cx_cookie_g:cX_G,cx_cookie_t:cX_T,'cx_segments':cx_seg,'itm_masterChannel':'ait'});
+	td.set('$global','td_global_id','td_global_id');
+	td.trackPageview('pageviews',successCallback);
+};
+if(cx_seg === ''){ // óÅ¨èÄ«½êÉõ¦é
+	var js=addJS('//scdn.cxense.com/cx.js');
+	js.addEventListener('load',function(){
+		cx_seg = cX.getUserSegmentIds({persistedQueryId:persisted});
+		push_data(cx_seg);
+	});
+}else{
+	cx_seg = cX.getUserSegmentIds({persistedQueryId:persisted});
+	push_data(cx_seg);
+}
+})();
+  </script>
+  <!-- /Treasure Data -->
+  <!-- User Insight PCDF Code Start : itmedia.co.jp -->
+  <script type="text/javascript">
+   var _uic = _uic ||{};
+var _uih = _uih ||{};
+	
+_uih['id'] = 52351; // Zp
+	
+_uih['lg_id'] = (function(cookie_name){
+	var str = '';
+	var val = '';
+	var cookies = '';
+	if(cookie_name){
+		cookies = document.cookie.split('; ');
+		for(var i = 0; i < cookies.length; i++){
+			val = cookies[i].split('=');
+			if(val[0] != cookie_name) continue;
+			str = unescape(val[1].slice(0,40));
+		}
+	}
+	return str;
+})('iitt');
+_uih['fb_id'] = '';
+_uih['tw_id'] = '';
+_uih['uigr_1'] = (function(){ // hCpX
+	var str = '';
+	if(typeof itmdp !== 'undefined'){
+		str = itmdp.x_dp;
+	}
+	return str;
+})();
+_uih['uigr_2'] = (function(){ // Ò¼
+	var e = document.getElementById('byline');
+	var str = '';
+	if(e){
+		str = e.innerHTML.replace(/<(".*?"|'.*?'|[^'"])*?>/g,'').replace(/(\[|\])/g,'');
+	}
+	return str;
+})();
+_uih['uigr_3'] = '';
+_uih['uigr_4'] = '';
+_uih['uigr_5'] = '';
+_uih['uigr_6'] = '';
+_uih['uigr_7'] = '';
+_uih['uigr_8'] = '';
+_uih['uigr_9'] = '';
+_uih['uigr_10'] = '';
+
+/* DO NOT ALTER BELOW THIS LINE */
+/* WITH FIRST PARTY COOKIE */
+(function() {
+var bi = document.createElement('script');bi.type = 'text/javascript'; bi.async = true;
+bi.src = '//cs.nakanohito.jp/b3/bi.js';
+var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bi, s);
+})();
+  </script>
+  <!-- User Insight PCDF Code End : itmedia.co.jp -->
+  <!-- Facebook Pixel Code -->
+  <script>
+   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '185005748502834');
+fbq('track', "PageView");
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['invoke',function(){
+	var cx_fb_segments = cX.getUserSegmentIds({persistedQueryId:'8b5a5e7f2de4247858bf30431c9972d3cdf7682e'});
+	if(cx_segments.length || cx_fb_segments.length){
+		fbq('trackCustom','itm_custom',{'cx_seg':cx_segments,'cx_fb_seg':cx_fb_segments});
+	}
+}]);
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=185005748502834&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+  <!-- Twitter Tracking Code -->
+  <!-- /Twitter Tracking Code -->
+  <!-- Pardot -->
+  <!-- masterChannel == top|news|business|enterprise|executive|mm|ait|tt|tf|kn|mn|ee|edn|smartjapan|bt -->
+  <!-- prFlag ne PR && masterType ne special -->
+  <script>
+   piAId = '292242';
+piCId = '1454';
+(function() {
+function async_load(){
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+}
+if(window.attachEvent) { window.attachEvent('onload', async_load); }
+else { window.addEventListener('load', async_load, false); }
+})();
+  </script>
+  <!-- /Pardot -->
+  <!-- Global site tag (gtag.js) - Google Ads: 1032582312 -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-1032582312">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());
+gtag('config','AW-1032582312');
+  </script>
+  <script>
+   (function(){
+var addJS = function(_src,_id){
+	var d = document;
+	var js = d.createElement('script');
+	js.src = _src;
+	if(_id) js.id = _id;
+	d.head.appendChild(js);
+	return js;
+};
+var js=addJS('//scdn.cxense.com/cx.js');
+js.addEventListener('load',function(){
+	cx_seg = cX.getUserSegmentIds({persistedQueryId:'c2d933a3f076195cf38c2ac1d2ba2a879bb2a9a2'});
+	gtag('event','page_view',{'send_to':'AW-1032582312','cx_segments':cx_seg});
+});
+})();
+  </script>
+  <!-- Yahoo Code for your Target List -->
+  <script>
+   /* <![CDATA[ */
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+var cxSegments;
+var yahoo_retargeting_label;
+var yahoo_retargeting_id = 'JLJRRBL49G';
+var yahoo_retargeting_page_type = 'Cxense';
+var yahoo_retargeting_items = [{item_id:'',category_id:'',price:'',quantity:''}];
+cX.callQueue.push(['invoke',function(){
+cxSegments = cX.getUserSegmentIds({persistedQueryId:'c2d933a3f076195cf38c2ac1d2ba2a879bb2a9a2'});
+if(cxSegments.length >= 7) cxSegments.splice(7,cxSegments.length);
+yahoo_retargeting_label = cxSegments.toString();
+}]);
+cX.callQueue.push(["loadScript","https://b92.yahoo.co.jp/js/s_retargeting.js"])
+/* ]]> */
+  </script>
+  <script async="" src="/js/v6_survey.js?date=202002061432">
+  </script>
+ </body>
+</html>
