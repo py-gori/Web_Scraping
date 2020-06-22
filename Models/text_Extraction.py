@@ -1,4 +1,3 @@
-# coding=utf-8
 from bs4 import BeautifulSoup
 import re
 import requests
@@ -33,7 +32,8 @@ def janome_analysis(text):
         for token in tokens:
             word = token.surface
             ps = token.part_of_speech
-            if ps.find("名詞") < 0: continue
+            if ps.find('名詞') < 0:
+                continue
             # if word in ["<", ">", ",", "pre", "|", "[", "]"]: continue
             if word is not None:
                 word_list.append(word)

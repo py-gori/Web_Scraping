@@ -1,14 +1,17 @@
-# coding=utf-8
 from bs4 import BeautifulSoup
+from datetime import datetime
 import requests
 
-def get_contents(url):
+def get_contents(url, day=None):
     """
-
     :param url: URL to scrape
+           day: content uploaded day
     :return: Article name and URL of each article in dict
              {Article name: URL}
     """
+    # datetime → strftime(記事リンクに含まれる日付形式に合わせる)
+    day = day.strftime('%y/%m/%d')
+
     # htmlソースを取得
     res = requests.get(url)
 
@@ -23,9 +26,11 @@ def get_contents(url):
     for entry in entry_list:
         sub_class = entry.find(class_='summary')
         try:
-            key = sub_class.h2.text.strip()
-            link = sub_class['href']
-            contents[key] = link
+            # アップロード日が指定のdayである記事のみ抽出
+            if day in sub_class['href']:
+                key = sub_class.h2.text.strip()
+                link = sub_class['href']
+                contents[key] = link
         except AttributeError:
             pass
     return contents
