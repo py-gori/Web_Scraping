@@ -19,7 +19,7 @@ contents = get_OSDN_Contents.get_contents(URL)
 
 for subject, link in contents.items():
     text = text_Extraction.text_extraction(link)
-    word_clouddata = text_Extraction.janome_analysis(text)
+    wordcloud_data = text_Extraction.janome_analysis(text)
 
-    output_picturename = subject[0:10] + '_' + today
-    create_Wordcloud.create_wordcloud(word_clouddata, output_picturename)
+    output_picturename = today + '_' + subject[0:10] + '..._'
+    create_Wordcloud.create_wordcloud(wordcloud_data, output_picturename)
