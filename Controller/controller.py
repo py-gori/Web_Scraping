@@ -4,7 +4,7 @@ import sys
 from datetime import datetime, timedelta
 
 today = datetime.now().strftime('%Y%m%d')
-uploadday = datetime.now() - timedelta(days=4)  # 記事がアップロードされた日を指定(記事リンクに含まれる日付より特定)
+uploadday = datetime.now() - timedelta(days=1)  # 記事がアップロードされた日を指定(記事リンクに含まれる日付より特定)
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(base_dir)
 
