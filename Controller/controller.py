@@ -1,6 +1,7 @@
 # coding=utf-8
 import os
 import sys
+import time
 from datetime import datetime, timedelta
 
 today = datetime.now().strftime('%Y%m%d')
@@ -37,3 +38,5 @@ for subject, link in contents.items():
     dir = settings.PICTURE_DIR
     picture = os.path.join(dir, picturename)
     LINE_bot.send(message, picture)
+    # 次のループまで1秒空ける
+    time.sleep(1)
