@@ -1,7 +1,7 @@
 import os
 from wordcloud.wordcloud import WordCloud
 
-DIRPATH = 'C://Users//yk28j//py-gori//Web_Scraping//Picture'
+DIRPATH = ''
 
 
 class WordCloudCreate(object):
