@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import requests
 
-def get_contents(url, day=None):
+def get_contents(url, day=1):
     """
     :param url: URL to scrape
            day: content uploaded day
